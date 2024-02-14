@@ -19,6 +19,8 @@ public class Testdemo {
 		System.out.println("cya");
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("hi");
+		System.out.println("hi");
 	}
 
 }
