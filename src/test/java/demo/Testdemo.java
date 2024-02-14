@@ -21,6 +21,8 @@ public class Testdemo {
 		System.out.println("hi");
 		System.out.println("hi");
 		System.out.println("hi");
+		System.out.println("bye");
+		System.out.println("cya");
 	}
 
 }
